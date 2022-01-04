@@ -1,5 +1,7 @@
 # MyHealthStats
 
+![Streamlit app](https://share.streamlit.io/zeyalt/myhealthstats/app.py)
+
 ## What is MyHealthStats?
 
 MyHealthStats is a web application that allows me to visualise levels of key indicators in my blood.
